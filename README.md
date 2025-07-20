@@ -74,4 +74,4 @@ If you have any questions, suggestions, or would like to collaborate, feel free 
 
 This repository and its content are shared under:  
 **Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**  
-🔗 [License Details]([https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/))
+🔗 [License Details](https://creativecommons.org/licenses/by-nc-nd/4.0/)
