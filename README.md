@@ -53,7 +53,7 @@ The simulation models allow flexible fault insertion and observer validation.
 ## 📈 Notes on Results
 
 - The simulation results shown here are **more accurate than the real-time (OPAL-RT) results**, due to numerical solver precision and idealized computational speed.
-- However, real-time performance is consistent and robust within hardware constraints.
+
 
 ---
 
